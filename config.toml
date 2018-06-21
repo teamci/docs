@@ -1,0 +1,19 @@
+baseURL = "http://docs.teamci.co/"
+languageCode = "en-us"
+title = "TeamCI Documentation"
+theme = "hugo-simpledoc-theme"
+pygmentsCodeFences = true
+pygmentsStyle = "manni"
+
+# Site parameters
+[params]
+    # Meta
+    description = "TeamCI documentation"
+    author = "Adam Hawkins"
+    keywords = "teamci, documentation"
+
+    # Header
+    headerDescription = "How to configure and use TeamCI checks"
+
+    # Back-to-top button name
+    bttButton = ""
