@@ -13,3 +13,7 @@ Create `custom/Dockerfile` in the shared configuration repo. TeamCI
 builds the Docker image and runs a container with the code under test
 mounted `/data`. Exit code `0` is success, `7` is skip, and anything
 else is failure.
+
+Here's an [example][example].
+
+[example]: https://github.com/teamci/teamci/tree/master/custom
