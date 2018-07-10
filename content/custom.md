@@ -2,7 +2,7 @@
 title: "Custom"
 date: 2018-06-20T17:24:20+07:00
 anchor: "custom"
-weight: 6
+weight: 8
 ---
 
 Teams can write their own checks using the custom check. The custom
